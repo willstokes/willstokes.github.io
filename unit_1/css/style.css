@@ -1,11 +1,13 @@
-body {	background-color: #CFC493;
+body {	
+	background-color: #CFC493;
 	}
-h1 { color: #4A412A;
+h1 { 
+	color: #4A412A;
 	}
 h2 {
 	color: #4A412A;
 }
-ul {
+li {
 	color: #4A412A
 }
 p {
