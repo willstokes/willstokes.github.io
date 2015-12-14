@@ -1,0 +1,52 @@
+body {
+	color: #FFF;
+	font-family: Open Sans, Sans;
+	font-weight: lighter;
+	background-color: #000;
+	text-align: center;
+	list-style-type: none;
+}
+h1 {
+	font-family: Open Sans, Sans;
+	font-weight: lighter;
+}
+h2 {
+	font-weight: lighter;
+}
+ul {
+	text-align: center;
+    list-style-type: none;
+    padding-left: 0px;
+}
+#slogan {
+	font-style: italic;
+}
+#headshot {
+	padding: 10px;
+}
+/*#lorem {
+	font-size: .8em;
+	margin: 0px 300px;
+}*/
+.header {
+	font-size: 2em;
+	padding: 50px;
+	margin: 50px;
+}
+.footer {
+	font-size: .7em;
+}
+.filler {
+	font-size: .8em;
+}
+.header {
+	background: url(../images/santaelena.jpg);
+	background-size: cover;
+}
+.social {
+	font-size: .5em;
+	font-color: white;
+}
+a {
+	color: white;
+}
