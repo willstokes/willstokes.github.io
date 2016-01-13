@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,900italic,900|Open+Sans:300italic,300,700italic,700);
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+header h1 a {
+    text-decoration: none;
+    color: #800;
+    font-family: Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+header p {
+	font-family: Courier, serif;
+	font-size: 12px;
+	margin:0px;
+}
+
+nav {
+	margin: 20px 0px;
+}
+
+nav a {
+	margin-right: 10px;
+	text-decoration: none;
+	font: Courier, serif;
+}
+
+body {
+	background-color: #ECECEC;
+	margin: 10px 80px;
+
+}
+
+main h2 {
+	font-size: 28px;
+	font-family: Helvetica, sans-serif;
+	color: #800;
+	margin: 20px 0px;
+}
+
+main p {
+	font: Helvetica, serif;
+	margin: 20px 0px;
+}
+
+dd {
+	text-indent: 20px;
+}
