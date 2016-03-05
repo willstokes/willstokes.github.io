@@ -1,21 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=EB+Garamond);
-.top {
+
+
+header {
+	height: 20%;
+	background: #DEDEDE;
 }
 footer {
 	height: 10%;
 	background: black;
 	padding: 1em;
 }
-#send {
-	font-family: Avenir-Heavy;
-	font-size: 36px;
-	color: #FFFFFF;
-}
-header {
-	height: 20%;
-}
 #logo {
-	font-size: 8vw;
+	font-size: 6em;
 	color: #000000;
 	font-family: 'EB Garamond', serif;
 	/*width: 50%;*/
@@ -25,34 +21,46 @@ header {
 }
 #tagline {
 	font-family: Avenir-Book;
-	font-size: 2vw;
+	font-size: 1em;
 	color: #000000;
 	text-align: center;
 	padding: .4em 0;
 }
 article {
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	padding: 1em;
 	overflow: scroll;
 	height: 60%;
+	text-align: center;
+	background: #DEDEDE;
 }
 .band-container {
 	display:block;
-	background: black;
-	margin:auto;
+	/*background: black;*/
+	/*padding:1em;*/
 	text-align: center;
-	width: 80%;
+	width: 95%;
+	margin: .5em auto;
+	padding-top: .2em;
 }
 .artist {
-	font-family: Avenir-Heavy;
+	font-family: Avenir-Book;
 	color: #4B4A4A;
-	display:block;
-	margin:auto;
-	font-size:4.5vw;
-	padding: .2em 0;
+	/*display:block;
+	margin:auto;*/
+	font-size: 3em;
+	padding-bottom: .1em;
 }
 .venue {
-	font-family: Avenir-Heavy;
-	font-size: 15px;
+	font-family: Avenir-Book;
+	font-size: 1.4em;
 	color: #4B4A4A;
+}
+#send {
+	font-family: Avenir-Heavy;
+	font-size: 4vw;
+	color: #FFFFFF;
+	text-align: center;
+	display: block;
+	vertical-align: center;
 }
