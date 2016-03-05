@@ -1,0 +1,70 @@
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+
+
+header {
+	height: auto;
+	background: teal;
+	overflow: auto;
+}
+footer {
+	height: 10%;
+	background: black;
+	padding: 1em;
+}
+#header-text {
+	vertical-align: center;
+	background: black;
+	display: block;
+	width: auto;
+	padding: .5em;
+}
+#logo {
+	font-size: 3.5em;
+	color: white;
+	font-family: Avenir-Book;
+	text-align: center;
+}
+#tagline {
+	font-family: Avenir-Book;
+	font-size: 1em;
+	color: white;
+	text-align: center;
+}
+article {
+	/*border: 1px solid black;*/
+	padding: 1em;
+	overflow: scroll;
+	height: 60%;
+	text-align: center;
+	background: #DEDEDE;
+}
+.band-container {
+	display:block;
+	/*background: black;*/
+	/*padding:1em;*/
+	text-align: center;
+	width: 95%;
+	margin: 1em auto;
+	padding-top: .2em;
+}
+.artist {
+	font-family: Avenir-Book;
+	color: #4B4A4A;
+	/*display:block;
+	margin:auto;*/
+	font-size: 2.5em;
+	padding-bottom: .1em;
+}
+.venue {
+	font-family: Avenir-Book;
+	font-size: 1.4em;
+	color: #4B4A4A;
+}
+#send {
+	font-family: Avenir-Heavy;
+	font-size: 2.5em;
+	color: #FFFFFF;
+	text-align: center;
+	display: block;
+	/*vertical-align: center;*/
+}
