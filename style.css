@@ -1,3 +1,9 @@
 li {
   text-decoration: underline;
 }
+body {
+  background-image: url("/tor-downsized.gif");
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  background-position: center;
+}
