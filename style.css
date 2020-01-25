@@ -2,11 +2,12 @@ li {
   text-decoration: underline;
 }
 body {
+  height: 100vh;
   background-image: url("/tor-downsized.gif");
   background-color: #ffffff;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100%;
+  background-size: auto 100%;
 }
 h1 {
   background-color: white;
