@@ -29,7 +29,7 @@ li {
       background-color: #ffffff;
       background-repeat: no-repeat;
       background-position: center;
-      background-size: 100%;
+      background-size: 100% auto;
     }
     h1 {
       background-color: white;
