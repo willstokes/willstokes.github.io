@@ -15,8 +15,10 @@ li {
     }
     h1 {
       background-color: white;
-      font-size: 3em;
+      font-size: 10em;
       font-family: sans-serif;
+      display: inline block;
+      margin: 10vw;
     }
 }
 @media only screen
@@ -31,9 +33,7 @@ li {
     }
     h1 {
       background-color: white;
-      font-size: 10em;
+      font-size: 3em;
       font-family: sans-serif;
-      display: inline block;
-      margin: 10vw;
     }
 }
